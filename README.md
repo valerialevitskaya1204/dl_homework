@@ -3,7 +3,8 @@
 Repository of our results for dl homework
 
 All models for project are here  https://drive.google.com/drive/folders/1745LnMCkeGEPTfawlh_oE6s6AnrDlUgy?usp=drive_link
-Tried to use git lfs but ir's now orking (dk why) so..
+
+Tried to use git lfs but it's not working (dk why) so..
 
 Levitskaia Valeriia 
 Evgenia Shustova
