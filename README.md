@@ -24,14 +24,14 @@ The best result is 0.86. Checkpoint in repository (swin_3)
 
 2. Ensemble models with mean voting. Class for training is in the repo
 
-   ```python
-   efficientnet_weights_path = 'models/EfficientNet-V2-M.pth'
+```python
+efficientnet_weights_path = 'models/EfficientNet-V2-M.pth'
 densenet_weights_path = 'models/DenseNet121.pth'
 resnet_weights_path = 'models/ResNet50.pth'
 alexnet_weights_path = 'models/AlexNet.pth'
 vgg16_weights_path = 'models/VGG16.pth'
 vgg19_weights_path = 'models/VGG19.pth'
-   ```
+```
 
 
 3. WaveMix
